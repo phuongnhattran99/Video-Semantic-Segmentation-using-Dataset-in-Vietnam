@@ -19,8 +19,8 @@ https://github.com/abreheret/PixelAnnotationTool
 
                                                                                                                                         
 # Result
-| Training |Validation|
-| :---: | :---: |
+|        | Training |Validation|
+| :---: | :---: |:---: |
 | `Accuracy`   | 97.16%      | 94.87%    |
 | `Loss`     |0.0884      | 0.1422      |
 
