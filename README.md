@@ -2,6 +2,7 @@
 The dataset has 34 videos at 30fps that have been preprocessed, taken 400 images from the video and labeled more than 100 images. The dataset from Nguyen Van Luong, Nguyen Oanh, Ha Huy Giap, Phan Van Tri streets in Go Vap District was split into training, testing and validation dataset. Particularly, the dataset from Ly Thuong Kiet, Bac Hai, Thanh Thai and Ba Thang Hai streets in District 10 will be used for the prediction dataset. There are 8 labels in each image: 'building', 'car', 'fence', 'person', 'road', 'sidewalk', 'sky', 'vegetation'. DeepLabV3+ network model is used for dataset with an expected accuracy of over 90%.
 # Visualize the pixel counts by class
 <img src="https://user-images.githubusercontent.com/81501596/124903326-0f8d1400-e00e-11eb-8b3f-2a703d5ce9e7.png" width="750" height="375">
+
 # DeepLab v3+ with ResNet-18 Backbone
 ![2](https://user-images.githubusercontent.com/81501596/124903466-31869680-e00e-11eb-9cae-1c128d3ad93e.png)
 # Training Progress
