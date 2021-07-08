@@ -4,10 +4,13 @@ The dataset has 34 videos at 30fps that have been preprocessed, taken 400 images
 <img src="https://user-images.githubusercontent.com/81501596/124903326-0f8d1400-e00e-11eb-8b3f-2a703d5ce9e7.png" width="750" height="375">
 
 # DeepLab v3+ with ResNet-18 Backbone
-![2](https://user-images.githubusercontent.com/81501596/124903466-31869680-e00e-11eb-9cae-1c128d3ad93e.png)
+<img src="https://user-images.githubusercontent.com/81501596/124903466-31869680-e00e-11eb-9cae-1c128d3ad93e.png" width="750" height="375">
+
 # Training Progress
-![3](https://user-images.githubusercontent.com/81501596/124903653-5da21780-e00e-11eb-8ed0-291090868f24.png)
-![4](https://user-images.githubusercontent.com/81501596/124903661-5f6bdb00-e00e-11eb-960d-a5d647d9b9ce.png)
+<img src="https://user-images.githubusercontent.com/81501596/124903653-5da21780-e00e-11eb-8ed0-291090868f24.png" width="750" height="375">
+<img src="https://user-images.githubusercontent.com/81501596/124903661-5f6bdb00-e00e-11eb-960d-a5d647d9b9ce.png width="750" height="375">
+
+                                                                                                                                        
 # Result
 | Training |Validation|
 | --- | --- |
@@ -42,21 +45,26 @@ The dataset has 34 videos at 30fps that have been preprocessed, taken 400 images
  |   vegetation |   0.94966 |    0.90996  |    0.91148  |
  
 # Visualize Features of a Convolutional Neural Network
- ![7](https://user-images.githubusercontent.com/81501596/124907107-fab27f80-e011-11eb-954b-7d4592832946.png)
-![8](https://user-images.githubusercontent.com/81501596/124907113-fbe3ac80-e011-11eb-9a92-c129a0fc598d.png)
+<img src="https://user-images.githubusercontent.com/81501596/124907107-fab27f80-e011-11eb-954b-7d4592832946.png" width="750" height="375">
+<img src="https://user-images.githubusercontent.com/81501596/124907113-fbe3ac80-e011-11eb-9a92-c129a0fc598d.png" width="750" height="375">
 # Visualize Activations of a Convolutional Neural Network
-![9](https://user-images.githubusercontent.com/81501596/124907406-50872780-e012-11eb-83a3-94bc31657dd6.png)
-![10](https://user-images.githubusercontent.com/81501596/124907427-567d0880-e012-11eb-8b68-ffc143d46d88.png)
+<img src="https://user-images.githubusercontent.com/81501596/124907406-50872780-e012-11eb-83a3-94bc31657dd6.png" width="750" height="375">
+<img src="https://user-images.githubusercontent.com/81501596/124907427-567d0880-e012-11eb-8b68-ffc143d46d88.png" width="750" height="375">
 # Plot Images
 Original Image
+<img src="https://user-images.githubusercontent.com/81501596/124903326-0f8d1400-e00e-11eb-8b3f-2a703d5ce9e7.png" width="750" height="375">
 ![IMG_0534_1_006](https://user-images.githubusercontent.com/81501596/124907672-a360df00-e012-11eb-91ac-a9d075b1bd85.png)
 Labeled Image
+<img src="https://user-images.githubusercontent.com/81501596/124903326-0f8d1400-e00e-11eb-8b3f-2a703d5ce9e7.png" width="750" height="375">
 ![IMG_0534_1_006_color_mask](https://user-images.githubusercontent.com/81501596/124907740-b673af00-e012-11eb-9b40-220f6983327a.png)
 Predicted Image
+<img src="https://user-images.githubusercontent.com/81501596/124903326-0f8d1400-e00e-11eb-8b3f-2a703d5ce9e7.png" width="750" height="375">
 ![11](https://user-images.githubusercontent.com/81501596/124907934-ef138880-e012-11eb-86d0-3343fc646d5e.png)
 Compare Predicted Image with the expected ground truth Image (The green and purple regions highlight areas where the segmentation results differ from the expected ground truth)
+<img src="https://user-images.githubusercontent.com/81501596/124903326-0f8d1400-e00e-11eb-8b3f-2a703d5ce9e7.png" width="750" height="375">
 ![12](https://user-images.githubusercontent.com/81501596/124908273-5c271e00-e013-11eb-88f8-4ed0a1481c3e.png)
 # Plot Image from Final Video
+<img src="https://user-images.githubusercontent.com/81501596/124903326-0f8d1400-e00e-11eb-8b3f-2a703d5ce9e7.png" width="750" height="375">
 ![13](https://user-images.githubusercontent.com/81501596/124908565-a6100400-e013-11eb-8218-44808da33673.png)
 
 
