@@ -14,8 +14,9 @@ https://github.com/abreheret/PixelAnnotationTool
 <img src="https://user-images.githubusercontent.com/81501596/124903466-31869680-e00e-11eb-9cae-1c128d3ad93e.png" width="750" height="375">
 
 # Training Progress
-<img src="https://user-images.githubusercontent.com/81501596/124903653-5da21780-e00e-11eb-8ed0-291090868f24.png" width="750" height="375">
-<img src="https://user-images.githubusercontent.com/81501596/124903661-5f6bdb00-e00e-11eb-960d-a5d647d9b9ce.png" width="750" height="375">
+<img src="https://user-images.githubusercontent.com/81501596/124950348-87723300-e03c-11eb-8515-ff63633dbc00.png" width="750" height="375">
+<img src="https://user-images.githubusercontent.com/81501596/124950356-893bf680-e03c-11eb-87b1-e4681f219830.png" width="750" height="375">
+
 
                                                                                                                                         
 # Result
